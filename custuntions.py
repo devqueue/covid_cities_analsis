@@ -2,7 +2,6 @@ import os
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from matplotlib.dates import DateFormatter
-from scipy.optimize import curve_fit
 import seaborn as sns
 import pandas as pd
 import numpy as np
