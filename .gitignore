@@ -3,6 +3,7 @@ Covid-data-updated.ipynb
 DATA_ruh.csv
 winenv/
 .vscode/
+activate enc.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
